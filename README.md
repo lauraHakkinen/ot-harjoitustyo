@@ -1,2 +1,2 @@
-Tämä repositio on harjoitusta varten :)
+Tämä repositorio on harjoitusta varten :)
 
